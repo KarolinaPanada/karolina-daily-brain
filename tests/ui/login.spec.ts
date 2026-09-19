@@ -3,7 +3,7 @@ import { users } from '../../src/data/test-data';
 
 test.describe('Login', () => {
   test('successful login with valid credentials', async ({ loginPage, page }) => {
-    await loginPage.goto('/login');
+    await loginPage.goto('');
     await loginPage.login(users.validUser.email, users.validUser.password);
 
     await expect(page).toHaveURL(/dashboard/);
