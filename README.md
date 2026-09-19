@@ -1,6 +1,6 @@
 # Playwright Portfolio
 
-![Playwright Tests](https://github.com/KarolinaPanada/playwright-portfolio/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests](https://github.com/KarolinaPanada/karolina-daily-brain/actions/workflows/playwright.yml/badge.svg)
 
 ## О проекте
 
