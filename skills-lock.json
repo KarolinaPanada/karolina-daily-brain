@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "pexo-agent": {
+      "source": "pexoai/pexo-skills",
+      "sourceType": "github",
+      "skillPath": "skills/pexo-agent/SKILL.md",
+      "computedHash": "33d9b3df49c21145a0ce81cbae7c85f97111f2944503716067082ba5d5b9407c"
+    },
+    "text-to-video": {
+      "source": "pexoai/pexo-skills",
+      "sourceType": "github",
+      "skillPath": "skills/text-to-video/SKILL.md",
+      "computedHash": "5044264145a7abf328d3c1315e614be4fd0436e702b5ff26e3459d3fb3c2522b"
+    },
+    "explainer-video": {
+      "source": "pexoai/pexo-skills",
+      "sourceType": "github",
+      "skillPath": "skills/explainer-video/SKILL.md",
+      "computedHash": "cfbc6587cc00a2769dcc4c47ef420b2db9afbfa7e8c8055a97c276e579283292"
+    }
+  }
+}
